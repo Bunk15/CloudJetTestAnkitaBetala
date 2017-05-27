@@ -1,3 +1,3 @@
 Run:
 
-python disp_mul.py
+python disp_mult.py
